@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this task, I created a Conditional Access policy that requires administrative users to sign in from compliant devices. This helps ensure that privileged accounts can only access administrative resources from devices that meet organizational security requirements.
+I created a Conditional Access policy that requires administrative users at SouthWest Tech to sign in from compliant devices. This helps ensure that privileged accounts can only access administrative resources from devices that meet organizational security requirements.
 
 ## Objective
 
