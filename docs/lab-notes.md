@@ -1,4 +1,4 @@
-# Configure Conditional Access Policy for Admin Device Compliance
+# Conditional Access Policy for Admin Device Compliance
 
 ## Overview
 
